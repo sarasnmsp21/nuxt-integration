@@ -1,0 +1,27 @@
+.tab-font {
+    font-size: 20px;
+    color: black;
+  }
+  .nav-tabs {
+    border-bottom: none;
+    margin-left: 24px;
+    font-size: 23px;
+  }
+  .nav-link.active {
+    color: #fe7900 !important;
+  }
+  .nav-link {
+    color: gray !important;
+  }
+  .div-outline {
+    outline: none;
+  }
+  .tab-content > .active {
+    display: block;
+    outline: none !important;
+  }
+  .nav-link {
+    display: block;
+    padding: 0.3rem 1.2rem 1.3rem 0rem;
+    margin-left: -9px;
+  }

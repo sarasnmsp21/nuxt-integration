@@ -23,7 +23,14 @@ export default {
   /*
    ** Global CSS
    */
-  css: [],
+  css: [
+    '@/assets/scss/header.scss',
+    '@/assets/scss/footer.scss',
+    '@/assets/scss/section.scss',
+    '@/assets/scss/mainnav.scss',
+    '@/assets/scss/tab.scss',
+    '@/assets/scss/tabp.scss'
+  ],
   /*
    ** Plugins to load before mounting the App
    */

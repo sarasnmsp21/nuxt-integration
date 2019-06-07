@@ -1,0 +1,52 @@
+.custom-service {
+    list-style-type: none;
+  }
+  .footer-containt {
+    background: linear-gradient(to bottom rgba(0, 0, 0, 0.9), rgba(0, 0, 0, 0.8)),url("/_nuxt/assets/images/footer.jpg");
+    background-size: cover;
+    padding-top: 50px;
+    color: #bdbdbd;
+    font-size: 12px;
+  }
+  .footer-below-content {
+    background-color: black;
+    height: 54px;
+    line-height: 54px;
+  }
+  .facebook-width {
+    width: 40px;
+  }
+  .footer-heading {
+    font-size: 20px;
+    color: #fff;
+  }
+  .btn:focus {
+    outline: none;
+  }
+  .footer-down-logo {
+    height: 40px;
+  }
+  .dec-color {
+    color: #615f5f;
+  }
+  .font-cus-ser {
+    color: #bdbdbd !important;
+    text-decoration: none !important;
+  }
+  .input-email {
+    background: rgba(255, 255, 255, 0.3) none repeat scroll 0 0;
+    height: 32px;
+    width: 180px;
+    border: none;
+  }
+  .input-email:focus {
+    outline: none;
+  }
+  .phone-text-color {
+    color: #fe7900;
+  }
+  .email-icon input[type="submit"] {
+    // background: rgba(0, 0, 0, 0) url(../assets/images/emailicon.png) no-repeat scroll 0 0;
+    border: medium none;
+    height: 24px;
+  }
